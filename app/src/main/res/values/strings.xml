@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultiModule</string>
+    <string name="format_currency">%1$,.1f 원</string>
+</resources>
